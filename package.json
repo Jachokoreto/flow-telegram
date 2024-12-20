@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@okxconnect/ui": "^1.6.1",
     "@twa-dev/sdk": "^8.0.1",
     "next": "15.1.2",
     "react": "^19.0.0",
